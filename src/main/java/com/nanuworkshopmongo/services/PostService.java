@@ -7,7 +7,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.nanuworkshopmongo.domain.Post;
-import com.nanuworkshopmongo.domain.User;
 import com.nanuworkshopmongo.repository.PostRepository;
 import com.nanuworkshopmongo.services.exception.ObjectNotFoundException;
 
